@@ -1,4 +1,4 @@
-module starter
+module github.com/RichardLQ/starter
 
 go 1.19
 
